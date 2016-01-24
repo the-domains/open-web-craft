@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Open Web Craft]]></title>
         <description><![CDATA[Open Web Craft]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/open-web-craft/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jan 2016 22:53:18 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 24 Jan 2016 22:55:27 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/open-web-craft/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Hej!]]></title>
             <description><![CDATA[<article><h1>Hej!</h1><p>You’ve reached the website of Matthias Geisler, an open web craftsman living in/ working remote from Donauwoerth, Germany.</p></article>]]></description>
-            <link>undefinedhej/index.html</link>
+            <link>https://thegrid.ai/open-web-craft/hej/index.html</link>
             <guid isPermaLink="false">4fc5845b-9bda-401b-aae1-dd4b943f9fa6</guid>
-            <pubDate>Sun, 24 Jan 2016 22:53:18 GMT</pubDate>
+            <pubDate>Sun, 24 Jan 2016 22:55:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
